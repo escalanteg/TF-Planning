@@ -14,3 +14,7 @@ El programa realiza, a grandes razgos, los siguientes procesos:
 
 Luego de estos procesos se obtiene una imagen de NDVI dentro del lago:
 ![image](https://github.com/escalanteg/TF-Planning/assets/169058583/321539fc-4b94-4fec-9ba4-7e94adbebca8)
+El proyecto python se puede consultar desde Google Colab mediante el siguiente enlace: 
+https://colab.research.google.com/drive/1pFqmwCeUfd6fn8FWyxp791H2DAZZm8pI?usp=sharing
+
+
