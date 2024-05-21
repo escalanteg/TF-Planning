@@ -11,6 +11,7 @@ https://colab.research.google.com/drive/1pFqmwCeUfd6fn8FWyxp791H2DAZZm8pI?usp=sh
 ____________________________________________________________________________________________________________________________________
 
 Contenido del Proyecto
+
 El proyecto aborda los siguientes aspectos:
 
 - Descompresión de Archivos ZIP.
@@ -22,6 +23,7 @@ El proyecto aborda los siguientes aspectos:
 
 
 Instalación
+
 El proyecto hace uso de las siguientes librerías de Python:
 - numpy
 - matplotlib
